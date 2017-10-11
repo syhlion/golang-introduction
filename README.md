@@ -75,6 +75,7 @@
 * [websocket](https://github.com/gorilla/websocket)
 * [redigo](https://github.com/garyburd/redigo)
 * [greq](https://github.com/syhlion/greq)
+* [jsonparser](https://github.com/buger/jsonparser)
 
 ## golang 常用服務介紹
 
